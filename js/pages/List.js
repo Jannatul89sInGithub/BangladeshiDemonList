@@ -100,7 +100,7 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        Achieved the record without using any <a href="https://docs.google.com/spreadsheets/d/1M4vXMxHcYwtstB6SD9r4lPFotUXhz3IL9D_3JX8tjyE" target="_blank">disallowed hacks/mods</a>.
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
