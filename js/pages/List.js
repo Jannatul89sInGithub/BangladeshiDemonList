@@ -100,6 +100,11 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
+                        You <strong>MUST</strong> be Bangladeshi to submit records for this list. To qualify, you must meet at least one of the following criteria:
+                        <br>• Be a current citizen or resident of Bangladesh.
+                        <br>• Both of your parents are from Bangladesh <strong>AND</strong> you have visited Bangladesh at least once.
+                    </p>
+                    <p>
                         Achieved the record without using any <a href="https://docs.google.com/spreadsheets/d/1M4vXMxHcYwtstB6SD9r4lPFotUXhz3IL9D_3JX8tjyE" target="_blank" style="color: #3b82f6; text-decoration: underline;">disallowed hacks/mods</a>.
                     </p>
                     <p>
