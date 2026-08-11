@@ -108,22 +108,16 @@ export default {
                         Achieved the record without using any <a href="https://docs.google.com/spreadsheets/d/1M4vXMxHcYwtstB6SD9r4lPFotUXhz3IL9D_3JX8tjyE" target="_blank" style="color: #3b82f6; text-decoration: underline;">disallowed hacks/mods</a>.
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        You <strong>MUST</strong> have audible clicks throughtout your entire completion video.
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
-                    </p>
-                    <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt.
                     </p>
                     <p>
                         The recording must also show the player hit the endwall, or the completion will be invalidated.
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
-                    </p>
-                    <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        Do not use secret routes or bug routes.
                     </p>
                 </div>
             </div>
