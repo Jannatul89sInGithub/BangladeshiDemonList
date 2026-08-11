@@ -105,6 +105,9 @@ export default {
                         <br>• Be ethnically Bangladeshi from both sides <strong>AND</strong> have visited Bangladesh at least once.
                     </p>
                     <p>
+                        Only <strong>Extreme Demons</strong> are allowed on the list.
+                    </p>
+                    <p>
                         Achieved the record without using any <a href="https://docs.google.com/spreadsheets/d/1M4vXMxHcYwtstB6SD9r4lPFotUXhz3IL9D_3JX8tjyE" target="_blank" style="color: #3b82f6; text-decoration: underline;">disallowed hacks/mods</a>.
                     </p>
                     <p>
